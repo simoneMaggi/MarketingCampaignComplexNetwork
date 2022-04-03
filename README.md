@@ -21,4 +21,7 @@ interconnected.
 The network dataset is free to download at [snap](http://snap.stanford.edu/data) and consists of 28281 Deezer's users connected by 92752 edges. 
 Since it is a social network, we expect to see the common proprieties that characterize this kind of networks.
 
-The 
+# Usage
+- The project is coded in *R*.
+- marketingCampaing.pdf is a deep explanation of the project.
+- the html is a friendly view of the R code.
