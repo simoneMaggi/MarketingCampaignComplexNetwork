@@ -22,6 +22,6 @@ The network dataset is free to download at [snap](http://snap.stanford.edu/data)
 Since it is a social network, we expect to see the common proprieties that characterize this kind of networks.
 
 # Usage
-- The project is coded in *R*.
-- marketingCampaing.pdf is a deep explanation of the project.
-- the html is a friendly view of the R code.
+- The project is coded in *R*. The script are [here](dezeer.R).
+- [here](marketingCampaign.pdf) a deep explanation of the project.
+- [here](index.html) is a friendly view of the R code.
